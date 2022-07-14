@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://imagens.ebc.com.br/rZHrxWqcwigtQtpZggOe04mhqjg=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/maracana_publico.jpg?itok=Qjg4hOAg"
     },
     "mandante":{
     "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "http://s2.glbimg.com/yCoaWQK8HZvRLMr5u4BPDR0hPbwIPiNkhMtIas6KxSnvDOKHWQ6-JaCCy-kNVhEg/e.glbimg.com/og/ed/f/original/2013/10/17/estadio_centenario_-_getty.jpg"
     },
     "mandante":{
     "nome": "Brasil",
@@ -36,8 +36,8 @@
     {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Palestra Italia",
+      "imagem": "https://pbs.twimg.com/media/Exlw0sJW8AQ6BFo.jpg:large"
     },
     "mandante":{
     "nome": "Brasil",
